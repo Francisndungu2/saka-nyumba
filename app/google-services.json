@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "943569021648",
+    "project_id": "house-95eba",
+    "storage_bucket": "house-95eba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943569021648:android:9ad70c1d5305f5bb6b0cd5",
+        "android_client_info": {
+          "package_name": "com.demotxt.myapp.saka_nyumba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943569021648-fgsr8tutl9nvt84pb8bbrlcumf17s1ui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJxVOHLGWUzx-nDOiltFUtoNp84NG79v8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943569021648-fgsr8tutl9nvt84pb8bbrlcumf17s1ui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
