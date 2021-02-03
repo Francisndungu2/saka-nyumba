@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">saka-nyumba</string>
+
+    <array name="cars">
+        <item>SUV</item>
+        <item>pickup</item>
+        <item>van</item>
+        <item>Sedan</item>
+        <item>Wagon</item>
+
+    </array>
 </resources>
